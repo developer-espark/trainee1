@@ -26,10 +26,10 @@ public class DetailActivity extends AppCompatActivity {
             email = extras.getString("email");
             password = extras.getString("password");
         }
-        fn.setText(fname);
-        ln.setText(lname);
-        gd.setText(gender);
-        em.setText(email);
-        pw.setText(password);
+        fn.setText("First Name : "+fname);
+        ln.setText("Last Name : "+lname);
+        gd.setText("Gender : "+gender);
+        em.setText("Email : "+email);
+        pw.setText("Password : "+password);
     }
 }

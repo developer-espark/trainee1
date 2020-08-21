@@ -11,56 +11,20 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15f47ee9-feab-44db-b94c-48f53064712a" name="Default Changelist" comment="&quot;first commit&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/signupform/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/DetailActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/signupform/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="15f47ee9-feab-44db-b94c-48f53064712a" name="Default Changelist" comment="&quot;final commit&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="10.187.134.120:5555" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="10.177.66.220:5555" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -86,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="adb_path" value="$USER_HOME$/Android/Sdk/platform-tools/adb" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1890064967">
@@ -165,27 +130,32 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;first commit&quot;" />
+    <MESSAGE value="&quot;final commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;final commit&quot;" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="298" y="27" width="810" height="741" key="CommitChangelistDialog2" timestamp="1597930060282">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
     <state x="298" y="27" width="810" height="741" key="CommitChangelistDialog2/50.27.1316.741@50.27.1316.741" timestamp="1597930060282" />
-    <state width="1270" height="172" key="GridCell.Tab.0.bottom" timestamp="1597929910154">
+    <state width="1270" height="172" key="GridCell.Tab.0.bottom" timestamp="1597985638424">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.bottom/50.27.1316.741@50.27.1316.741" timestamp="1597929910154" />
-    <state width="1270" height="172" key="GridCell.Tab.0.center" timestamp="1597929910153">
+    <state width="1270" height="172" key="GridCell.Tab.0.bottom/50.27.1316.741@50.27.1316.741" timestamp="1597985638424" />
+    <state width="1270" height="172" key="GridCell.Tab.0.center" timestamp="1597985638423">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.center/50.27.1316.741@50.27.1316.741" timestamp="1597929910153" />
-    <state width="1270" height="172" key="GridCell.Tab.0.left" timestamp="1597929910153">
+    <state width="1270" height="172" key="GridCell.Tab.0.center/50.27.1316.741@50.27.1316.741" timestamp="1597985638423" />
+    <state width="1270" height="172" key="GridCell.Tab.0.left" timestamp="1597985638422">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.left/50.27.1316.741@50.27.1316.741" timestamp="1597929910153" />
-    <state width="1270" height="172" key="GridCell.Tab.0.right" timestamp="1597929910154">
+    <state width="1270" height="172" key="GridCell.Tab.0.left/50.27.1316.741@50.27.1316.741" timestamp="1597985638422" />
+    <state width="1270" height="172" key="GridCell.Tab.0.right" timestamp="1597985638424">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.right/50.27.1316.741@50.27.1316.741" timestamp="1597929910154" />
+    <state width="1270" height="172" key="GridCell.Tab.0.right/50.27.1316.741@50.27.1316.741" timestamp="1597985638424" />
     <state x="150" y="127" width="1116" height="541" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1597922773123">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
