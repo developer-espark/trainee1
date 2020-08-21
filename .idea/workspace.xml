@@ -12,12 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15f47ee9-feab-44db-b94c-48f53064712a" name="Default Changelist" comment="&quot;final commit&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/signupform/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,26 +143,26 @@
       <screen x="50" y="27" width="1316" height="741" />
     </state>
     <state x="298" y="27" width="810" height="741" key="CommitChangelistDialog2/50.27.1316.741@50.27.1316.741" timestamp="1597930060282" />
-    <state width="1270" height="172" key="GridCell.Tab.0.bottom" timestamp="1597985638424">
+    <state width="1270" height="172" key="GridCell.Tab.0.bottom" timestamp="1597997907520">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.bottom/50.27.1316.741@50.27.1316.741" timestamp="1597985638424" />
-    <state width="1270" height="172" key="GridCell.Tab.0.center" timestamp="1597985638423">
+    <state width="1270" height="172" key="GridCell.Tab.0.bottom/50.27.1316.741@50.27.1316.741" timestamp="1597997907520" />
+    <state width="1270" height="172" key="GridCell.Tab.0.center" timestamp="1597997907520">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.center/50.27.1316.741@50.27.1316.741" timestamp="1597985638423" />
-    <state width="1270" height="172" key="GridCell.Tab.0.left" timestamp="1597985638422">
+    <state width="1270" height="172" key="GridCell.Tab.0.center/50.27.1316.741@50.27.1316.741" timestamp="1597997907520" />
+    <state width="1270" height="172" key="GridCell.Tab.0.left" timestamp="1597997907520">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.left/50.27.1316.741@50.27.1316.741" timestamp="1597985638422" />
-    <state width="1270" height="172" key="GridCell.Tab.0.right" timestamp="1597985638424">
+    <state width="1270" height="172" key="GridCell.Tab.0.left/50.27.1316.741@50.27.1316.741" timestamp="1597997907520" />
+    <state width="1270" height="172" key="GridCell.Tab.0.right" timestamp="1597997907520">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state width="1270" height="172" key="GridCell.Tab.0.right/50.27.1316.741@50.27.1316.741" timestamp="1597985638424" />
-    <state x="150" y="127" width="1116" height="541" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1597922773123">
+    <state width="1270" height="172" key="GridCell.Tab.0.right/50.27.1316.741@50.27.1316.741" timestamp="1597997907520" />
+    <state x="150" y="127" width="1116" height="541" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1597996772611">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state x="150" y="127" width="1116" height="541" key="com.android.tools.idea.avdmanager.AvdListDialog/50.27.1316.741@50.27.1316.741" timestamp="1597922773123" />
+    <state x="150" y="127" width="1116" height="541" key="com.android.tools.idea.avdmanager.AvdListDialog/50.27.1316.741@50.27.1316.741" timestamp="1597996772611" />
     <state x="476" y="317" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597926626503">
       <screen x="50" y="27" width="1316" height="741" />
     </state>

@@ -6,19 +6,25 @@
     android:layout_height="match_parent"
     tools:context=".DetailActivity"
     android:orientation="vertical"
-    android:layout_margin="30dp">
+    android:padding="30dp"
+    android:background="#498AF6"
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="#B3CDF8"
+        android:padding="10dp">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Your Details"
             android:gravity="center"
             android:textSize="30dp"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:background="#5F6165"
+            android:textColor="#fff" />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -49,6 +55,11 @@
             android:id="@+id/showpassword"
             android:textSize="20dp"
             android:textStyle="bold"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BACK"
+            android:id="@+id/back" />
     </LinearLayout>
 
 </LinearLayout>

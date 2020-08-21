@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     i.putExtra("gender",gender.getText().toString());
                     i.putExtra("email",email.getText().toString());
                     i.putExtra("password",password.getText().toString());
+
                     startActivity(i);
                 }
             }
